@@ -7,8 +7,9 @@ This is simple yet handy VS Code extension that shows the public IP address of t
 ### Automatic IP Fetching
 
 Retrieves your public IP address automatically when VS Code starts.
-
+![Automatic IP Fetching](https://raw.githubusercontent.com/andysvints/whatismyip-vscode/master/assets/VS%20Code%20whatismyip.png)
 
 ### Manual Update
 
 Refreshes the displayed IP address using the whatismyip command.
+![Manual Update](https://raw.githubusercontent.com/andysvints/whatismyip-vscode/master/assets/VS%20Code%20whatismyip%20cmd.png)
