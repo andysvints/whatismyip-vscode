@@ -2,7 +2,9 @@
   "name": "whatismyip",
   "displayName": "WhatIsMyIP",
   "description": "Get public ip of the development endpoint using ipify.org and ipinfo.io APIs",
+  "icon": "assets/WhatIsMyIp-vscode.png",
   "version": "0.0.1",
+  "publisher": "andysvints",
   "engines": {
     "vscode": "^1.90.0"
   },
